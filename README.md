@@ -43,3 +43,5 @@ Fix: Try replacing GST_MESSAGE_ERROR | GST_MESSAGE_EOS with (GstMessageType)(GST
 10. Run the project
 Run the project.
 It will play a video from net.
+
+For detail guide please follow this https://github.com/ZobairHussain/GstreamerWindowsBasicTutorials/blob/master/Install%20GStreamer%20on%20Windows.pdf
